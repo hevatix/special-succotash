@@ -14,7 +14,7 @@
 
 
 module.exports = {
-  port: process.env.PORT || 81,
+  port: process.env.PORT || 8080,
 
   // dataBackend can be 'datastore', 'cloudsql', or 'mongodb'. Be sure to
   // configure the appropriate settings for each storage engine below.
