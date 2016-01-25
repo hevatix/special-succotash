@@ -1,0 +1,8 @@
+html
+	head
+		title!= title
+	body
+		
+		form(action="//nodeuploadfile-dot-caduceusexp.appspot.com/subir", method="POST", enctype="multipart/form-data")
+			input.form-control(type="file", name="file", id="file")
+			button.btn.btn-success(type="submit") Subir
