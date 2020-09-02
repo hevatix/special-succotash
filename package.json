@@ -22,7 +22,7 @@
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
     "gcloud": "^0.24.1",
-    "googleapis": "^2.1.7",
+    "googleapis": "^59.0.0",
     "jade": "^1.11.0",
     "kerberos": "^0.0.17",
     "lodash": "^4.17.19",
